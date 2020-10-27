@@ -1,0 +1,12 @@
+[package]
+name = "pc-screen-font"
+version = "0.1.0"
+authors = ["James Martin <james@jtmar.me>"]
+edition = "2018"
+repository = "https://github.com/jamestmartin/pc-screen-font"
+license = "LGPL-3.0+"
+publish = false
+
+[dependencies.num-integer]
+version = "0.1.43"
+default-features = false
